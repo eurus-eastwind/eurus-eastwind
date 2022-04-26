@@ -1,5 +1,4 @@
-<p align="center"> Hi! My name is Judell Lloren Mejorada 👋 
-</p>
+Hi! My name is Judell Lloren Mejorada 👋 
 =======================================
 
 Aspiring Data Scientist
