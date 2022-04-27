@@ -4,7 +4,7 @@ Hi! My name is Judell Lloren Mejorada 👋
 Aspiring Data Scientist
 -----------------------
 
-* 🧠  I'm currently studying node,js, AR, Fast API
+* 🧠  I'm currently studying node.js, AR, Fast API
 
 <a href="https://www.github.com/eurus-eastwind" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/eurus-eastwind?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
