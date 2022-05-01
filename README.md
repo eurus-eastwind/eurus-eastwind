@@ -1,7 +1,7 @@
 Hi! My name is Judell Lloren Mejorada 👋 
 =======================================
 
-Aspiring Data Scientist
+
 -----------------------
 
 * 🧠  I'm currently studying node.js, AR, Fast API
